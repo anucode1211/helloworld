@@ -1,0 +1,21 @@
+{
+    "name": "anucode1211/helloworld",
+    "description": "\"sample page\"",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anucode1211\\Helloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anucode1211",
+            "email": "anusiyaoff2@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
