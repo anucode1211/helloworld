@@ -3,7 +3,7 @@
     "description": "\"sample page\"",
     "type": "library",
     "require": {
-        "php": "^7.3"
+       
     },
     "license": "MIT",
     "autoload": {
@@ -17,5 +17,5 @@
             "email": "anusiyaoff2@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
